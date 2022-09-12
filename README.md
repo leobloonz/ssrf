@@ -1,7 +1,5 @@
 # ssrf
-> http://127.0.0.1 
-
-> http://127.1
+> http://localhost == http://127.0.0.1 == http://127.1 ==  http://2130706433
 
 > ip to decimal 
 
